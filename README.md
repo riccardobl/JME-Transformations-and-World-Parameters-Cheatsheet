@@ -1,4 +1,4 @@
-# JMonkeyEngine Cheatsheet
+# JME Transformations and WorldParameters Cheatsheet
 
 ![](jmeCheatsheet.png)
 
